@@ -2,9 +2,9 @@
 
 ## Supported Android Versions (Generally)<br/>
 
-  > Android 10<br/>
-  > Android 11<br/>
-  > Android 12/12.1
+  > Android 10 w/ OSS<br/>
+  > Android 11 w/ OSS<br/>
+  > Android 12/12.1 w/ OSS
 
 ## Device Trees:
 
