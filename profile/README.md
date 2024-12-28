@@ -4,6 +4,9 @@ We're a passionate group working hard to breathe new life into your device with 
 > [!TIP]
 > If you wanna join to Organization, [please DM me](https://t.me/batuhantrkgl)
 
+> [!WARNING]
+> Project has been hold until March.
+
 ### Supported Devices
 > [!WARNING]
 > Samsung Galaxy M10 (m10lte) and Samsung Galaxy A6 2018 (a6lte) aren't currently supported. Please don't try to modify the trees to make it work.
